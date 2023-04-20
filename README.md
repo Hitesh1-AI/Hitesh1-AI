@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Hitesh1-AI
-- 👀 I’m interested in AI & DS
-- 🌱 I’m currently learning Data Science with python
-- 💞️ I’m looking to collaborate on real time Data Science projects
+# Hi there, I am Hitesh Kumar 👋 
+## About Me <br>
+I'm a student of Artificial Intelligence and Data Science, currently pursuing my degree. My passion for AI and data science began when I realized the power of these fields to solve complex problems and make a positive impact on society. I'm excited to be part of this rapidly growing field and to learn and grow alongside it.
+## Skills
+#### Programming languages: Python, C, C++
+#### Data Analysis: Pandas, NumPy
+#### Machine Learning: Scikit-learn
+#### Deep Learning: CNN, RNN, LSTM
+#### Data Visualization: Matplotlib, Seaborn
+## Contact Me
+- LinkedIn : https://www.linkedin.com/in/hitesh-kumar-124b70202
 - 📫 My email ID : hiteshkumar78785@gmail.com
 
 <!---
