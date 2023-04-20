@@ -8,7 +8,7 @@ I'm a student of Artificial Intelligence and Data Science, currently pursuing my
 #### Deep Learning: CNN, RNN, LSTM
 #### Data Visualization: Matplotlib, Seaborn
 ## Contact Me
-- LinkedIn : https://www.linkedin.com/in/hitesh-kumar-124b70202
+- 🖇️ LinkedIn : https://www.linkedin.com/in/hitesh-kumar-124b70202
 - 📫 My email ID : hiteshkumar78785@gmail.com
 
 <!---
